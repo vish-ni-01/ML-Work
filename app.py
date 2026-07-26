@@ -150,7 +150,7 @@ with tab2:
                     use_container_width=True
                 )
 
-            except:
+            except ValueError:
                 st.error("CSV must contain exactly 4 feature columns in correct order.")
 
 
