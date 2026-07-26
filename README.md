@@ -27,7 +27,3 @@ A machine learning project that predicts the likelihood of heart disease using p
 ## Contribution
 
 This repository was forked from the original project. I contributed improvements to the project and submitted them through a Pull Request.
-
-## Contributor
-
-**Vishal Malik**
